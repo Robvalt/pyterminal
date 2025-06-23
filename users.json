@@ -1,0 +1,20 @@
+{
+    "admin": {
+        "password": "635039732ed975a9cf76d6d5ce4d1612665b679c081994cb26f0d316112b88af",
+        "role": "admin",
+        "last_login": "2025-06-04T14:58:43.289087",
+        "name": "admin"
+    },
+    "testaccount": {
+        "password": "1582e7a714a4d2e5260931acf11d3dbbce4992c65c60f5512ae8bdeaea3fa4ba",
+        "role": "admin",
+        "last_login": "2025-05-28T17:50:37.407085",
+        "name": "testaccount"
+    },
+    "user": {
+        "password": "aad415a73c4cef1ef94a5c00b2642b571a3e5494536328ad960db61889bd9368",
+        "role": "user",
+        "last_login": "2025-06-04T15:02:08.836795",
+        "name": "user"
+    }
+}
